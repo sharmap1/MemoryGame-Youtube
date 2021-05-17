@@ -22,9 +22,7 @@ https://www.youtube.com/watch?v=tLxBwSL3lPQ&t=422s
 
 ### Dependencies
 
-- npm install react-bootstrap bootstrap@4.6.0
+- npm install react-bootstrap bootstrap
 - npm install classnames
 - npm install @material-ui/core
-- npm i --save @fortawesome/fontawesome-svg-core
-- npm install --save @fortawesome/free-solid-svg-icons
-- npm install --save @fortawesome/react-fontawesome
+- npm install react-icons
